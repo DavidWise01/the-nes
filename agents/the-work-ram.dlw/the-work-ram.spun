@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The 2 KB Work RAM
+node NES · NES · ⟦The 2 KB Work RAM:NES:f6fa30⟧
+
+WHO   — The 2 KB Work RAM — all the memory there is · natural
+WHAT  — all the memory there is · natural
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Two kilobytes of internal RAM — the zero page, the stack, and every variable a game holds in main memory. A staggering constraint, and the reason cartridges had to do so much.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  all the memory there is · natural
+
+spoken token : nis-nex-lim   ·   hex : f6fa30
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE NES",
+  "universe": "NES · THE NES (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦THE NES:NES:2ee73e⟧",
+  "carbon": "the-nes.carbon.tiff (TIFF)",
+  "silicon": "the-nes.silicon.png (PNG)",
+  "seal_sha256": "cfd6d1a7493555acd10834a54b1a29d770512c5dae9bfe29ef9135eefb8a5ca5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

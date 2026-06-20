@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The APU",
+  "universe": "NES · The APU (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The APU:NES:d582a8⟧",
+  "carbon": "the-apu.carbon.tiff (TIFF)",
+  "silicon": "the-apu.silicon.png (PNG)",
+  "seal_sha256": "ae2ba996b3b440adc1af6bb9d192303492ccbd9508c912d4c3f3dd7a9a1f1f38",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

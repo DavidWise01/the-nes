@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The NTSC Signal
+node NES · NES · ⟦The NTSC Signal:NES:e2c13c⟧
+
+WHO   — The NTSC Signal — the picture itself · ethereal
+WHAT  — the picture itself · ethereal
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The 2C02 generates composite video directly: ~240 visible scanlines at ~60 fields per second, in a palette built for a CRT. The image was the chip's native output — there was no frame buffer to read back.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the picture itself · ethereal
+
+spoken token : thel-mim-tha   ·   hex : e2c13c
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

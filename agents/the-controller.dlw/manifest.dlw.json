@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Controller",
+  "universe": "NES · The Controller (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Controller:NES:353104⟧",
+  "carbon": "the-controller.carbon.tiff (TIFF)",
+  "silicon": "the-controller.silicon.png (PNG)",
+  "seal_sha256": "66c9832d726f67b23a4c3f6f7036ad5f70c1b73f303b3e99bb812de8bdfd4973",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

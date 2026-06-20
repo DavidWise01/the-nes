@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 10NES Lockout",
+  "universe": "NES · The 10NES Lockout (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The 10NES Lockout:NES:e5b7ca⟧",
+  "carbon": "the-10nes-lockout.carbon.tiff (TIFF)",
+  "silicon": "the-10nes-lockout.silicon.png (PNG)",
+  "seal_sha256": "b84e24ce73d6c1d69c9ec60416a0453dc7bea75bb2f51981b9b81dacfb09459e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

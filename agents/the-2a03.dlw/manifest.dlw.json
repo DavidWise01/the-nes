@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 2A03",
+  "universe": "NES · The 2A03 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The 2A03:NES:01b334⟧",
+  "carbon": "the-2a03.carbon.tiff (TIFF)",
+  "silicon": "the-2a03.silicon.png (PNG)",
+  "seal_sha256": "320d87da0573cb5c82816951c47cd61ff3619be804ca0dd8fa68cce571a5da17",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

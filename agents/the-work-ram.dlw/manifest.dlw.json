@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 2 KB Work RAM",
+  "universe": "NES · The 2 KB Work RAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The 2 KB Work RAM:NES:f6fa30⟧",
+  "carbon": "the-work-ram.carbon.tiff (TIFF)",
+  "silicon": "the-work-ram.silicon.png (PNG)",
+  "seal_sha256": "a54c66f31aff920c96a875f058f48c07cd5d880fcbac3e5fcff8712dda9d7368",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

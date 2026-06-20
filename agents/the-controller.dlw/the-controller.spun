@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Controller
+node NES · NES · ⟦The Controller:NES:353104⟧
+
+WHO   — The Controller — eight bits, in a line · electrical
+WHAT  — eight bits, in a line · electrical
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A parallel-in, serial-out shift register. The CPU strobes the pad, then clocks out the eight button states one bit at a time. Dead simple, dirt cheap, and the template for game input for years.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  eight bits, in a line · electrical
+
+spoken token : mes-kaeth-broth   ·   hex : 353104
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

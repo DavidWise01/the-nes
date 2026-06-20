@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 2C02 PPU",
+  "universe": "NES · The 2C02 PPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The 2C02 PPU:NES:de0690⟧",
+  "carbon": "the-2c02-ppu.carbon.tiff (TIFF)",
+  "silicon": "the-2c02-ppu.silicon.png (PNG)",
+  "seal_sha256": "0440c75a0b4b2dfe6b091043cabee45da8c6aa98e9260120d0f6b3dc1bce3f09",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

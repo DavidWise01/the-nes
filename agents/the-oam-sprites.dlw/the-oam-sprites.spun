@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Sprites (OAM)
+node NES · NES · ⟦The Sprites (OAM):NES:b0cedc⟧
+
+WHO   — The Sprites (OAM) — sixty-four movers · electrical
+WHAT  — sixty-four movers · electrical
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Object Attribute Memory holds 64 sprites — the movable objects (Mario, enemies, the cursor). With only 8 allowed per scanline, the PPU drops the rest, producing the flicker that defines the look of the era.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  sixty-four movers · electrical
+
+spoken token : vyn-mem-phirn   ·   hex : b0cedc
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

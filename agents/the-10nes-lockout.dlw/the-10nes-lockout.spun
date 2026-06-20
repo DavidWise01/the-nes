@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The 10NES Lockout
+node NES · NES · ⟦The 10NES Lockout:NES:e5b7ca⟧
+
+WHO   — The 10NES Lockout — the gatekeeper · ethereal
+WHAT  — the gatekeeper · ethereal
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The CIC lockout chip: a console-and-cartridge handshake meant to block unlicensed games. When it failed to sync — often from a dirty connector — the console reset in a loop. The famous blinking power light, in part, was this chip saying no.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the gatekeeper · ethereal
+
+spoken token : meis-sis-lox   ·   hex : e5b7ca
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

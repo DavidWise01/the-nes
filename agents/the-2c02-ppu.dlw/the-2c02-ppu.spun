@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The 2C02 PPU
+node NES · NES · ⟦The 2C02 PPU:NES:de0690⟧
+
+WHO   — The 2C02 PPU — the painter · electrical
+WHAT  — the painter · electrical
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Ricoh RP2C02, the picture processing unit. It assembles 256×240 from tiles and sprites on its own clock, with its own 16 KB address space — a dedicated graphics computer beside the CPU.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the painter · electrical
+
+spoken token : phyr-kin-maeth   ·   hex : de0690
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

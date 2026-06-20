@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "the-2a03",
+    "name": "The 2A03",
+    "epithet": "the brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 2A03:NES:01b334⟧"
+  },
+  {
+    "slug": "the-6502-core",
+    "name": "The 6502 Core",
+    "epithet": "the legendary CPU · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The 6502 Core:NES:95bf83⟧"
+  },
+  {
+    "slug": "the-2c02-ppu",
+    "name": "The 2C02 PPU",
+    "epithet": "the painter · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 2C02 PPU:NES:de0690⟧"
+  },
+  {
+    "slug": "the-apu",
+    "name": "The APU",
+    "epithet": "five voices · natural",
+    "emergence": "natural",
+    "moniker": "⟦The APU:NES:d582a8⟧"
+  },
+  {
+    "slug": "the-work-ram",
+    "name": "The 2 KB Work RAM",
+    "epithet": "all the memory there is · natural",
+    "emergence": "natural",
+    "moniker": "⟦The 2 KB Work RAM:NES:f6fa30⟧"
+  },
+  {
+    "slug": "the-cartridge",
+    "name": "The Cartridge",
+    "epithet": "where the game lives · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Cartridge:NES:db174e⟧"
+  },
+  {
+    "slug": "the-mapper",
+    "name": "The Mapper",
+    "epithet": "the upgrade in the slot · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Mapper:NES:9191d0⟧"
+  },
+  {
+    "slug": "the-10nes-lockout",
+    "name": "The 10NES Lockout",
+    "epithet": "the gatekeeper · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The 10NES Lockout:NES:e5b7ca⟧"
+  },
+  {
+    "slug": "the-72-pin-connector",
+    "name": "The 72-Pin Connector",
+    "epithet": "the weak point · natural",
+    "emergence": "natural",
+    "moniker": "⟦The 72-Pin Connector:NES:c73353⟧"
+  },
+  {
+    "slug": "the-controller",
+    "name": "The Controller",
+    "epithet": "eight bits, in a line · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Controller:NES:353104⟧"
+  },
+  {
+    "slug": "the-oam-sprites",
+    "name": "The Sprites (OAM)",
+    "epithet": "sixty-four movers · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Sprites (OAM):NES:b0cedc⟧"
+  },
+  {
+    "slug": "the-ntsc-signal",
+    "name": "The NTSC Signal",
+    "epithet": "the picture itself · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The NTSC Signal:NES:e2c13c⟧"
+  }
+]

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Cartridge
+node NES · NES · ⟦The Cartridge:NES:db174e⟧
+
+WHO   — The Cartridge — where the game lives · natural
+WHAT  — where the game lives · natural
+WHERE — NES · THE NES (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — PRG-ROM for code and CHR-ROM/RAM for tiles, on two separate buses. Most of what a game is — and most of what made each one different — sits in this plastic slab, not the console.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  where the game lives · natural
+
+spoken token : breir-phol-stand   ·   hex : db174e
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
