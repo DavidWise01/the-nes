@@ -77,13 +77,13 @@ footer a{color:var(--acc);text-decoration:none}</style></head><body><div class="
   {k:'RAM',n:'2 KB work RAM',gx:0.07,gy:0.46,gw:0.26,gh:0.20,
    s:'<b>2 KB internal RAM</b> — that is all the main memory there is.\\nMapped at $0000–$07FF, mirrored up to $1FFF. Zero-page and the stack ($0100) live here; everything else a game needs comes from the cartridge.'},
   {k:'VRAM',n:'2 KB video RAM',gx:0.67,gy:0.46,gw:0.26,gh:0.20,
-   s:'<b>2 KB video RAM</b> — the PPU\\'s scratch.\\nHolds the nametables (the tile grid on screen). The 32-entry palette and 64-sprite OAM live inside the PPU itself, not here.'},
+   s:'<b>2 KB video RAM</b> — the PPU scratch memory.\\nHolds the nametables (the tile grid on screen). The 32-entry palette and 64-sprite OAM live inside the PPU itself, not here.'},
   {k:'CART',n:'CARTRIDGE · PRG + CHR + mapper',gx:0.20,gy:0.74,gw:0.60,gh:0.20,
    s:'<b>The cartridge</b> — where most of the game actually lives.\\nPRG-ROM (program code) on the CPU bus · CHR-ROM/RAM (tile graphics) on the PPU bus · plus a MAPPER chip that bank-switches both, expanding the machine years after launch.'},
   {k:'CTRL',n:'controllers',gx:0.04,gy:0.74,gw:0.13,gh:0.20,
    s:'<b>The controller</b> — an 8-bit parallel-in / serial-out shift register.\\nThe CPU strobes it, then clocks out one button bit at a time (A,B,Select,Start,U,D,L,R). Cheap, simple, serial.'},
   {k:'TV',n:'NTSC out',gx:0.83,gy:0.74,gw:0.13,gh:0.20,
-   s:'<b>NTSC composite video</b> — the 2C02 generates the signal directly.\\n240 visible scanlines, ~60 fields/sec, a 54-color master palette (about 25 usable on screen at once). The picture is the chip\\'s native language.'}
+   s:'<b>NTSC composite video</b> — the 2C02 generates the signal directly.\\n240 visible scanlines, ~60 fields/sec, a 54-color master palette (about 25 usable on screen at once). The picture is the native language of the chip.'}
  ];
  function fit(){var w=C.clientWidth||640;C.width=w;C.height=Math.round(w*0.62);draw();}
  function R(b){return{x:b.gx*C.width,y:b.gy*C.height,w:b.gw*C.width,h:b.gh*C.height};}
