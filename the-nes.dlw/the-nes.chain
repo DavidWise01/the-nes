@@ -4,6 +4,6 @@ slug  : the-nes
 seal  : cfd6d1a7493555acd10834a54b1a29d770512c5dae9bfe29ef9135eefb8a5ca5
 prev  : bdd14ef7cb65cf606a50556cc2853266295b0ec1c724d08259ae98395ff735e1
 link  : e96d978ee30a4eb418d0201c067ac5fac277d55af16766ff554eb59f092882dc
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
